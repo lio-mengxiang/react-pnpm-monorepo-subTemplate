@@ -27,6 +27,7 @@
   "dependencies": {},
   "devDependencies": {
     "@mx-design/cli": "1.0.47",
+    "@types/node": "18.11.12",
     "rimraf": "3.0.2",
     "typescript": "4.9.3",
     "vitest": "0.25.3",
